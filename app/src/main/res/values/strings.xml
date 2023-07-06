@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">myMad1</string>
+
+    <string name="labelTimetable">Timetable</string>
+    <string name="labelMaths">Combined Maths</string>
+    <string name="labelBio">Biology</string>
+    <string name="labelChemistry">Chemistry</string>
+    <string name="labelPhysics">Physics</string>
+
+    <string-array name="subjects_array">
+        <item>Combined Maths</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+    </string-array>
+
+<!--    For Nav bar-->
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+</resources>
