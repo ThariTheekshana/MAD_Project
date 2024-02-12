@@ -1,4 +1,4 @@
-# Web-_Brain_Education
+# Web_Brain_Education
 This is a mobile application. which was created by using Kotlin. As well as we were used Firebase as a DB connection.
 
 Team Web Brain
